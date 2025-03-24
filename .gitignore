@@ -4,3 +4,17 @@ Temp/*
 UserSettings/*
 .vscode/*
 *.csproj
+Assets/Scenes/SampleScene/SampleScene Baking Set-Default.CellData.bytes
+Assets/Scenes/SampleScene/SampleScene Baking Set-Default.CellData.bytes.meta
+Assets/Scenes/SampleScene/SampleScene Baking Set-Default.CellOptionalData.bytes
+Assets/Scenes/SampleScene/SampleScene Baking Set-Default.CellOptionalData.bytes.meta
+Assets/Scenes/SampleScene/SampleScene Baking Set-Default.CellProbeOcclusionData.bytes
+Assets/Scenes/SampleScene/SampleScene Baking Set-Default.CellProbeOcclusionData.bytes.meta
+Assets/Scenes/SampleScene/SampleScene Baking Set.asset
+Assets/Scenes/SampleScene/SampleScene Baking Set.asset.meta
+Assets/Scenes/SampleScene/SampleScene Baking Set.CellBricksData.bytes
+Assets/Scenes/SampleScene/SampleScene Baking Set.CellBricksData.bytes.meta
+Assets/Scenes/SampleScene/SampleScene Baking Set.CellSharedData.bytes
+Assets/Scenes/SampleScene/SampleScene Baking Set.CellSharedData.bytes.meta
+Assets/Scenes/SampleScene/SampleScene Baking Set.CellSupportData.bytes
+Assets/Scenes/SampleScene/SampleScene Baking Set.CellSupportData.bytes.meta
